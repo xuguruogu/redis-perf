@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "2UmMbNHc8FBr98mJFN1k8ISOIHk=",
+			"path": "github.com/garyburd/redigo/internal",
+			"revision": "80f7de34463b0ed3d7c61303e5619efe1b227f92",
+			"revisionTime": "2016-10-24T01:47:02Z"
+		},
+		{
+			"checksumSHA1": "qqi0xwKRUSRkYMFZcqWSS/4YAjA=",
+			"path": "github.com/garyburd/redigo/redis",
+			"revision": "80f7de34463b0ed3d7c61303e5619efe1b227f92",
+			"revisionTime": "2016-10-24T01:47:02Z"
+		},
+		{
+			"checksumSHA1": "yV+2de12Q/t09hBGYGKEOFr1/zc=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "e4d366fc3c7938e2958e662b4258c7a89e1f0e3e",
+			"revisionTime": "2016-07-15T03:37:55Z"
+		}
+	],
+	"rootPath": "go.intra.xiaojukeji.com/foundation/redis-perf"
+}
